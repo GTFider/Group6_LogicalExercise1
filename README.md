@@ -3,6 +3,8 @@ Using Microsoft Excel, logical functions are used to be able to perform such log
 
 For this activity, some of the logical functions were used. The common logical functions used here were IF, OR, and IFBLANK. With the help of such functions, it enables the given formula to perform many comparisons or test various conditions stated in this Excel file.
 
-# Co-Authors:
-**Andal, Malan Lewis I., and Fider, Gerrard Troy C.**
 
+# Authors: 
+**Andal, Malan Lewis I.** \
+**Fider, Gerrard Troy C.** \
+**Leyesa, Julius Victor M.**
